@@ -23,7 +23,7 @@ git clone https://github.com/rerreby/heyCuda.git
 
 Then build and with command
 ```sh
-nvcc -arch sm_20 -o heyCuda heyCuda.cu &&
+nvcc -arch sm_20 -o heyCuda heyCuda.cu
 ```
  
 That's all. Cheers!
